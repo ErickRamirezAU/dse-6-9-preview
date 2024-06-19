@@ -1,7 +1,7 @@
 # Test drive vector search with DSE 6.9 early preview
 **Build a Document Q&A chatbot in 10 lines of code!**
 
-We [recently announced](https://www.datastax.com/blog/introducing-vector-search-for-self-managed-modern-architecture?utm_source=blog&utm_medium=website&utm_campaign=erickramirez) the upcoming release of **DataStax Enterprise 6.9** – the next iteration in the line of self-managed enterprise grade products from DataStax built on Apache Cassandra®, offering [DataStax Enterprise (DSE)]([https://dtsx.io/3KzMAro](https://www.datastax.com/products/datastax-enterprise?utm_source=blog&utm_medium=blog&utm_campaign=erickramirez)) customers a simple upgrade path that adds vector database capabilities for Generative AI use cases.
+We [recently announced](https://www.datastax.com/blog/introducing-vector-search-for-self-managed-modern-architecture?utm_source=blog&utm_medium=website&utm_campaign=erickramirez) the upcoming release of **DataStax Enterprise 6.9** – the next iteration in the line of self-managed enterprise grade products from DataStax built on Apache Cassandra®, offering [DataStax Enterprise (DSE)](https://www.datastax.com/products/datastax-enterprise?utm_source=blog&utm_medium=blog&utm_campaign=erickramirez) customers a simple upgrade path that adds vector database capabilities for Generative AI use cases.
 
 DataStax Enterprise continues to provide enterprises with zero-downtime 24x7 availability, global scalability, and operational simplicity as well as integrated real-time analytics with Apache Spark®, advanced search with Apache Solr™, and a distributed graph database optimized for fast data storage and traversals.
 
