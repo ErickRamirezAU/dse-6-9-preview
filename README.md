@@ -230,4 +230,4 @@ You can modify the code above to ask any question you want about the whitepaper 
 
 How about uploading your company's operating manuals? textbooks? web pages? Ask questions and get answers based on the documents you uploaded. Imagine the possibilities!
 
-Download the complete code for the demo on [GitHub](https://github.com/ErickRamirezAU/dse-6-9-preview). If you have any questions or would like to learn more, [contact us today](https://www.datastax.com/lp/hyper-converged-data-platform-datastax-enterprise-6-9-contact-us?utm_source=blog&utm_medium=website&utm_campaign=erickramirez)!
+Download the complete code for [ingesting documents](demo-QA-1-ingest.py) and [querying](demo-QA-2-ask.py) here. If you have any questions or would like to learn more, [contact us today](https://www.datastax.com/lp/hyper-converged-data-platform-datastax-enterprise-6-9-contact-us?utm_source=blog&utm_medium=website&utm_campaign=erickramirez)!
